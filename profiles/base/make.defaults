@@ -1,0 +1,1 @@
+USE="${USE} -tpm2_simulator_deprecated -tpm_insecure_fallback"
