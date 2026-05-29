@@ -14,7 +14,7 @@ IUSE=""
 RDEPEND="
   virtual/openfyde-board-spec
   sys-fs/linux-apfs-rw
-  net-misc/wifi-nvram-settings-for-apple-bcm43602
+  broadcom-sta
 "
 
 DEPEND="${RDEPEND}"
