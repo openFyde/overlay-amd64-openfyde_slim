@@ -14,7 +14,9 @@ IUSE=""
 RDEPEND="
   virtual/openfyde-board-spec
   sys-fs/linux-apfs-rw
-  broadcom-sta
+  sys-firmware/apple-wifi-firmware
+  net-wireless/broadcom-sta
+  sys-kernel/linux-firmware
 "
 
 DEPEND="${RDEPEND}"
